@@ -1,0 +1,13 @@
+.banner-size{
+    height: 80vh;
+}
+.banner-decoration{
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.card-decoration{
+    border-end-start-radius: 10%;
+}
+.card-decoration-img{
+    border-start-end-radius: 10%;
+}
